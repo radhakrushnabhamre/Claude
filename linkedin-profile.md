@@ -26,9 +26,7 @@ On the Java side, I build Spring Boot microservices and REST APIs — including 
 
 I've also built and tuned 380+ statutory and operational reports (NPA provisioning, deposit insurance, SFT, balance sheets), cutting execution time by 30% on average, and automated report deployment to 3 client banks through GitLab CI.
 
-Recognised with the Report Maestro Award (2026) and promoted to Software Developer in June 2026.
-
-Before software, I prepared for officer entry into the Indian Armed Forces — clearing the CDSE, AFCAT, SSC-Tech and Coast Guard written exams and attending 7 SSB interviews. It taught me discipline and composure under pressure, which I bring to every production incident.
+Recognised with the Report Maestro Award (2026) and promoted to Software Developer in June 2026. I now lead a team of 3 developers, scaling up to 7 based on project workload — planning, assigning and tracking work so releases ship on time.
 
 Tech: Java · Spring Boot · Microservices · Eureka · Spring Data JPA · REST APIs · PHP/Laravel · SQL Server · Liquibase · GitLab CI · Angular · BIRT
 Domain: Core banking · Regulatory reporting · Maker-checker workflows · Audit trails
@@ -43,13 +41,14 @@ Always glad to connect with people building in banking and fintech.
 
 Core-banking software (FinWiz) for cooperative banks.
 
+• Lead 3 direct-report developers and up to 4 more based on project workload — planning, assigning and tracking tasks to deliver releases on schedule.
 • Primary author of FinDrishti, a metadata-driven reporting engine (Laravel, SQL Server) now live in production at a bank; 170 reports migrated off legacy BIRT.
 • Built PDF/Excel export on a persistent headless Chromium, reducing export memory usage from ~2 GB to ~250 MB.
 • Integrated core-banking printing-charge APIs via a backend proxy with double-submit protection.
 • Built a read-through metadata cache and admin configuration UI with Liquibase SQL export.
 • Packaged first-release Liquibase changelogs and reconciled report metadata across 4 repositories.
 
-Skills: Laravel · Microsoft SQL Server · Liquibase · System Design · Puppeteer
+Skills: Team Leadership · Laravel · Microsoft SQL Server · Liquibase · System Design · Puppeteer
 
 ### Associate Software Developer · Dec 2024 – May 2026
 
@@ -67,7 +66,7 @@ Skills: Java · Spring Boot · Microservices · Spring Data JPA · REST APIs · 
 
 Top 5: Java · Spring Boot · Microsoft SQL Server · REST APIs · Core Banking
 
-Others: Spring Data JPA · Hibernate · Spring MVC · SQL · Stored Procedures · Liquibase · Laravel · PHP · Angular · Git · GitLab CI/CD · Maven · Apache Solr · BIRT · Regulatory Reporting · Microservices · Eureka · Docker · Postman · Jira · Root Cause Analysis
+Others: Team Leadership · Task Delegation · Spring Data JPA · Hibernate · Spring MVC · SQL · Stored Procedures · Liquibase · Laravel · PHP · Angular · Git · GitLab CI/CD · Maven · Apache Solr · BIRT · Regulatory Reporting · Microservices · Eureka · Docker · Postman · Jira · Root Cause Analysis
 
 ---
 
@@ -84,7 +83,6 @@ Activities: NSS Secretary (grew volunteers from 35 to 100+, led a 500+ tree plan
 ## Honors & Awards
 
 - Report Maestro Award — Novillex Technologies · Jan 2026 — For excellence in financial report development.
-- Cleared written exams for CDSE, AFCAT, SSC-Tech and Indian Coast Guard; 7 SSB interview calls · 2023–2024
 
 ---
 

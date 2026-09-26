@@ -1,13 +1,13 @@
 # RADHAKRUSHNA BHAMRE
 
 **Backend Engineer | Java · Spring Boot · PHP/Laravel · SQL Server | Core Banking & Regulatory Reporting**
-Pune, Maharashtra · [phone] · [email] · github.com/radhe1115 · [linkedin.com/in/...]
+Pune, Maharashtra · [phone] · [email] · [linkedin.com/in/...]
 
 ---
 
 ## Summary
 
-Backend engineer with ~2 years of experience building core-banking software for cooperative banks. Primary author of a metadata-driven reporting engine now **live in production at a bank**, and recipient of the company's **Report Maestro Award (2026)**. Hands-on with Java/Spring Boot microservices, SQL Server stored procedures, Liquibase migrations, CI/CD, and regulatory/MIS reporting (NPA provisioning, deposit insurance, SFT, balance sheet).
+Backend engineer with ~2 years of experience building core-banking software for cooperative banks. Primary author of a metadata-driven reporting engine now **live in production at a bank**, and recipient of the company's **Report Maestro Award (2026)**. Leads a team of 3 developers, scaling to 7 based on project workload. Hands-on with Java/Spring Boot microservices, SQL Server stored procedures, Liquibase migrations, CI/CD, and regulatory/MIS reporting (NPA provisioning, deposit insurance, SFT, balance sheet).
 
 ---
 
@@ -28,6 +28,8 @@ Backend engineer with ~2 years of experience building core-banking software for 
 ### Software Developer — Novillex Technologies, Pune
 *Jun 2026 – Present · Promoted from Associate Software Developer (Dec 2024 – May 2026)*
 *FinWiz Core Banking Solution for cooperative banks*
+
+- **Team leadership:** Lead 3 direct-report developers and up to 4 more based on project workload — planning, assigning and tracking tasks to deliver releases on schedule.
 
 **FinDrishti Reporting Engine — primary author (200+ commits), live in production**
 - Took the BIRT-replacement framework from POC to production: designed a **metadata-driven reporting engine** (Laravel, SQL Server) where a report is defined as database configuration instead of a hand-built BIRT design, using a service pipeline (context → layout/section resolvers → parameter binding → query execution → rendering → export) with pluggable resolvers; 170 reports migrated off BIRT so far.
@@ -69,5 +71,4 @@ Backend engineer with ~2 years of experience building core-banking software for 
 ## Achievements
 
 - **Report Maestro Award** — Novillex Technologies Foundation Day, Jan 2026, for excellence in financial report development.
-- Cleared written exams for CDSE, AFCAT, SSC-Tech and Indian Coast Guard; called for SSB interview 7 times (2023–2024).
 - Student of the Year 2023; NSS Secretary (grew volunteer base from 35 to 100+, led a 500+ tree plantation drive); runner-up, district-level elocution competition.
