@@ -25,8 +25,9 @@ Backend engineer with ~2 years of experience building core-banking software for 
 
 ## Experience
 
-### [Software Developer / Associate Software Developer] — Novillex Technologies, Pune
-*Dec 2024 – Present · FinWiz Core Banking Solution for cooperative banks*
+### Software Developer — Novillex Technologies, Pune
+*[Month Year] – Present · Promoted from Associate Software Developer (Dec 2024 – [Month Year])*
+*FinWiz Core Banking Solution for cooperative banks*
 
 **FinDrishti Reporting Engine — primary author (200+ commits), live in production**
 - Took the BIRT-replacement framework from POC to production: designed a **metadata-driven reporting engine** (Laravel, SQL Server) where a report is defined as database configuration instead of a hand-built BIRT design, using a service pipeline (context → layout/section resolvers → parameter binding → query execution → rendering → export) with pluggable resolvers; [X] reports migrated off BIRT so far.
