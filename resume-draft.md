@@ -26,24 +26,24 @@ Backend engineer with ~2 years of experience building core-banking software for 
 ## Experience
 
 ### Software Developer — Novillex Technologies, Pune
-*[Month Year] – Present · Promoted from Associate Software Developer (Dec 2024 – [Month Year])*
+*Jun 2026 – Present · Promoted from Associate Software Developer (Dec 2024 – May 2026)*
 *FinWiz Core Banking Solution for cooperative banks*
 
 **FinDrishti Reporting Engine — primary author (200+ commits), live in production**
-- Took the BIRT-replacement framework from POC to production: designed a **metadata-driven reporting engine** (Laravel, SQL Server) where a report is defined as database configuration instead of a hand-built BIRT design, using a service pipeline (context → layout/section resolvers → parameter binding → query execution → rendering → export) with pluggable resolvers; [X] reports migrated off BIRT so far.
-- Built **PDF/Excel export on a persistent headless Chromium** instance (Browsershot/Puppeteer), producing PDFs identical to on-screen output and removing per-request browser start-up; PDF generation time reduced from [X]s to [Y]s.
+- Took the BIRT-replacement framework from POC to production: designed a **metadata-driven reporting engine** (Laravel, SQL Server) where a report is defined as database configuration instead of a hand-built BIRT design, using a service pipeline (context → layout/section resolvers → parameter binding → query execution → rendering → export) with pluggable resolvers; 170 reports migrated off BIRT so far.
+- Built **PDF/Excel export on a persistent headless Chromium** instance (Browsershot/Puppeteer), producing PDFs identical to on-screen output and cutting export memory usage from ~2 GB to ~250 MB.
 - **Integrated core-banking printing-charge APIs** through a backend proxy with double-submit protection, enabling automatic charge calculation and voucher posting for printed reports.
 - Built a **read-through metadata cache** with invalidation on admin save; replaced ORM models with lightweight row objects so 7,000+ cached filter rows fit within PHP's 128 MB memory limit. Added an admin UI to configure reports that exports Liquibase SQL.
 - Fixed **silent data loss** when report queries returned duplicate column names by switching to positional row fetching and renaming duplicates.
 
 **Core Banking Backend — Java / Spring Boot**
 - Developed REST APIs for the **Daily Deposit Agent Master** module with **maker-checker authorization**, field-level modification audit log, duplicate detection and login-ID generation (Spring Boot, JPA, Liquibase); released in product v2.2.x.
-- Resolved [103]+ production defects through root-cause analysis, including loan/deposit authorization, insurance handling for unsecured loan accounts, and inward-clearing cheque validation.
+- Resolved 180+ production defects through root-cause analysis, including loan/deposit authorization, insurance handling for unsecured loan accounts, and inward-clearing cheque validation.
 - Implemented Solr-based CASA statement retrieval for large account sets.
 
 **Reporting, Database & Release Engineering**
-- Built and maintained [N]+ BIRT statutory and operational reports (deposit insurance, NPA provisioning, balance sheet, loan/FD statements, SFT, any-day balance); optimized stored procedures and report queries through index, join and filter tuning, reducing report execution time by [30]%.
-- Migrated the report repository from SVN to Git and automated deployment with a **PowerShell script run on GitLab CI runners** (changed-files-only, automatic backups, deployment history), supporting weekly releases to [N] client banks and saving ~30 minutes per release.
+- Built and maintained 380+ BIRT statutory and operational reports (deposit insurance, NPA provisioning, balance sheet, loan/FD statements, SFT, any-day balance); optimized stored procedures and report queries through index, join and filter tuning, reducing report execution time by 30% on average.
+- Migrated the report repository from SVN to Git and automated deployment with a **PowerShell script run on GitLab CI runners** (changed-files-only, automatic backups, deployment history), supporting weekly releases to 3 client banks and saving ~30 minutes per release.
 - Packaged first-release Liquibase changelogs: schema delta, 25 report seeds, `runOnChange` stored-procedure changelog, parameterized bank codes.
 - Reconciled report metadata across 4 repositories: resolved 18 of 19 ambiguous menu groups, synced 98 drifted report titles, removed orphaned and duplicate entries.
 
@@ -60,7 +60,7 @@ Backend engineer with ~2 years of experience building core-banking software for 
 
 ## Education & Certifications
 
-- **B.E. in Information Technology** — [College], [University] · 2019–2023 · CGPA 8.2/10
+- **B.E. in Information Technology** — Matoshree College of Engineering, Nashik ([University]) · 2019–2023 · CGPA 8.2/10
 - Java Spring Framework, Spring Boot & Spring AI — Udemy, 2026
 - Java Development — Cyber Success Institute, Pune, 2023
 
