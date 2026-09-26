@@ -26,7 +26,7 @@ On the Java side, I build Spring Boot microservices and REST APIs — including 
 
 I've also built and tuned 380+ statutory and operational reports (NPA provisioning, deposit insurance, SFT, balance sheets), cutting execution time by 30% on average, and automated report deployment to 3 client banks through GitLab CI.
 
-Recognised with the Report Maestro Award (2026) and promoted to Software Developer in June 2026. I now lead a team of 3 developers, scaling up to 7 based on project workload — planning, assigning and tracking work so releases ship on time.
+Recognised with the Report Maestro Award (2026) and promoted to Software Developer in June 2026. Since March 2026 I've led a team of 3 developers, scaling up to 7 based on project workload — planning and assigning work, reviewing code and tracking delivery so releases ship on time.
 
 Tech: Java · Spring Boot · Microservices · Eureka · Spring Data JPA · REST APIs · PHP/Laravel · SQL Server · Liquibase · GitLab CI · Angular · BIRT
 Domain: Core banking · Regulatory reporting · Maker-checker workflows · Audit trails
@@ -41,7 +41,7 @@ Always glad to connect with people building in banking and fintech.
 
 Core-banking software (FinWiz) for cooperative banks.
 
-• Lead 3 direct-report developers and up to 4 more based on project workload — planning, assigning and tracking tasks to deliver releases on schedule.
+• Lead 3 direct-report developers and up to 4 more based on project workload — planning and assigning tasks, reviewing code and tracking delivery so releases ship on schedule.
 • Primary author of FinDrishti, a metadata-driven reporting engine (Laravel, SQL Server) now live in production at a bank; 170 reports migrated off legacy BIRT.
 • Built PDF/Excel export on a persistent headless Chromium, reducing export memory usage from ~2 GB to ~250 MB.
 • Integrated core-banking printing-charge APIs via a backend proxy with double-submit protection.
@@ -56,6 +56,7 @@ Skills: Team Leadership · Laravel · Microsoft SQL Server · Liquibase · Syste
 • Resolved 180+ production defects through root-cause analysis across loans, deposits, insurance and inward clearing.
 • Built and maintained 380+ BIRT statutory and operational reports; tuned stored procedures to cut execution time by 30% on average.
 • Migrated reports from SVN to Git and automated deployment with PowerShell on GitLab CI runners for 3 client banks.
+• Began leading a team of 3 developers in Mar 2026 — planning and assigning tasks and reviewing code — leading to promotion to Software Developer.
 • Received the Report Maestro Award (Jan 2026) for excellence in financial report development.
 
 Skills: Java · Spring Boot · Microservices · Spring Data JPA · REST APIs · BIRT · GitLab CI/CD

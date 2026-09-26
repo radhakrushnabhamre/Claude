@@ -29,7 +29,7 @@ Backend engineer with ~2 years of experience building core-banking software for 
 *Jun 2026 – Present · Promoted from Associate Software Developer (Dec 2024 – May 2026)*
 *FinWiz Core Banking Solution for cooperative banks*
 
-- **Team leadership:** Lead 3 direct-report developers and up to 4 more based on project workload — planning, assigning and tracking tasks to deliver releases on schedule.
+- **Team leadership (since Mar 2026):** Lead 3 direct-report developers and up to 4 more based on project workload — planning and assigning tasks, reviewing code, and tracking delivery so releases ship on schedule; took on the role before the promotion to Software Developer.
 
 **FinDrishti Reporting Engine — primary author (200+ commits), live in production**
 - Took the BIRT-replacement framework from POC to production: designed a **metadata-driven reporting engine** (Laravel, SQL Server) where a report is defined as database configuration instead of a hand-built BIRT design, using a service pipeline (context → layout/section resolvers → parameter binding → query execution → rendering → export) with pluggable resolvers; 170 reports migrated off BIRT so far.
