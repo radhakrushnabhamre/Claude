@@ -7,14 +7,14 @@ Pune, Maharashtra · [phone] · [email] · github.com/radhe1115 · [linkedin.com
 
 ## Summary
 
-Backend engineer with ~2 years of experience building core-banking software for cooperative banks. Primary author of a metadata-driven reporting engine now **live in production at a bank**, and recipient of the company's **Report Maestro Award (2026)**. Hands-on with Java/Spring Boot REST services, SQL Server stored procedures, Liquibase migrations, CI/CD, and regulatory/MIS reporting (NPA provisioning, deposit insurance, SFT, balance sheet).
+Backend engineer with ~2 years of experience building core-banking software for cooperative banks. Primary author of a metadata-driven reporting engine now **live in production at a bank**, and recipient of the company's **Report Maestro Award (2026)**. Hands-on with Java/Spring Boot microservices, SQL Server stored procedures, Liquibase migrations, CI/CD, and regulatory/MIS reporting (NPA provisioning, deposit insurance, SFT, balance sheet).
 
 ---
 
 ## Skills
 
 - **Languages:** Java, PHP, SQL (T-SQL), JavaScript, TypeScript
-- **Backend:** Spring Boot, Spring MVC, Spring Data JPA / Hibernate, REST APIs, Laravel
+- **Backend:** Spring Boot, Microservices, Eureka service discovery, Spring MVC, Spring Data JPA / Hibernate, REST APIs, Laravel
 - **Database:** Microsoft SQL Server (stored procedures, query tuning), Liquibase, MySQL
 - **Frontend:** Angular, Bootstrap, Blade
 - **Tools & DevOps:** Git, GitLab CI/CD & Runners, Maven, PowerShell, Docker (working knowledge), Postman, Jira, Confluence, Apache Solr
@@ -36,8 +36,8 @@ Backend engineer with ~2 years of experience building core-banking software for 
 - Built a **read-through metadata cache** with invalidation on admin save; replaced ORM models with lightweight row objects so 7,000+ cached filter rows fit within PHP's 128 MB memory limit. Added an admin UI to configure reports that exports Liquibase SQL.
 - Fixed **silent data loss** when report queries returned duplicate column names by switching to positional row fetching and renaming duplicates.
 
-**Core Banking Backend — Java / Spring Boot**
-- Developed REST APIs for the **Daily Deposit Agent Master** module with **maker-checker authorization**, field-level modification audit log, duplicate detection and login-ID generation (Spring Boot, JPA, Liquibase); released in product v2.2.x.
+**Core Banking Backend — Java / Spring Boot Microservices**
+- Developed REST APIs for the **Daily Deposit Agent Master** module with **maker-checker authorization**, field-level modification audit log, duplicate detection and login-ID generation (Spring Boot, JPA, Liquibase) on a 17-service microservices platform with Eureka discovery and a central gateway service; released in product v2.2.x.
 - Resolved 180+ production defects through root-cause analysis, including loan/deposit authorization, insurance handling for unsecured loan accounts, and inward-clearing cheque validation.
 - Implemented Solr-based CASA statement retrieval for large account sets.
 

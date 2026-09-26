@@ -22,7 +22,7 @@ What that involved:
 ▸ A read-through metadata cache and admin UI so reports can be configured without code changes
 ▸ Integrating core-banking charge APIs so printed reports are billed and posted automatically
 
-On the Java side, I build Spring Boot REST APIs — including a maker-checker approval module with field-level audit logging — and I've resolved 180+ production defects through root-cause analysis.
+On the Java side, I build Spring Boot microservices and REST APIs — including a maker-checker approval module with field-level audit logging — and I've resolved 180+ production defects through root-cause analysis.
 
 I've also built and tuned 380+ statutory and operational reports (NPA provisioning, deposit insurance, SFT, balance sheets), cutting execution time by 30% on average, and automated report deployment to 3 client banks through GitLab CI.
 
@@ -30,7 +30,7 @@ Recognised with the Report Maestro Award (2026) and promoted to Software Develop
 
 Before software, I prepared for officer entry into the Indian Armed Forces — clearing the CDSE, AFCAT, SSC-Tech and Coast Guard written exams and attending 7 SSB interviews. It taught me discipline and composure under pressure, which I bring to every production incident.
 
-Tech: Java · Spring Boot · Spring Data JPA · REST APIs · PHP/Laravel · SQL Server · Liquibase · GitLab CI · Angular · BIRT
+Tech: Java · Spring Boot · Microservices · Eureka · Spring Data JPA · REST APIs · PHP/Laravel · SQL Server · Liquibase · GitLab CI · Angular · BIRT
 Domain: Core banking · Regulatory reporting · Maker-checker workflows · Audit trails
 
 Always glad to connect with people building in banking and fintech.
@@ -53,13 +53,13 @@ Skills: Laravel · Microsoft SQL Server · Liquibase · System Design · Puppete
 
 ### Associate Software Developer · Dec 2024 – May 2026
 
-• Developed Spring Boot REST APIs for the Daily Deposit Agent Master module with maker-checker authorization and field-level audit logging; released in product v2.2.x.
+• Developed Spring Boot REST APIs for the Daily Deposit Agent Master module with maker-checker authorization and field-level audit logging, on a Spring Boot microservices platform with Eureka discovery; released in product v2.2.x.
 • Resolved 180+ production defects through root-cause analysis across loans, deposits, insurance and inward clearing.
 • Built and maintained 380+ BIRT statutory and operational reports; tuned stored procedures to cut execution time by 30% on average.
 • Migrated reports from SVN to Git and automated deployment with PowerShell on GitLab CI runners for 3 client banks.
 • Received the Report Maestro Award (Jan 2026) for excellence in financial report development.
 
-Skills: Java · Spring Boot · Spring Data JPA · REST APIs · BIRT · GitLab CI/CD
+Skills: Java · Spring Boot · Microservices · Spring Data JPA · REST APIs · BIRT · GitLab CI/CD
 
 ---
 
@@ -67,7 +67,7 @@ Skills: Java · Spring Boot · Spring Data JPA · REST APIs · BIRT · GitLab CI
 
 Top 5: Java · Spring Boot · Microsoft SQL Server · REST APIs · Core Banking
 
-Others: Spring Data JPA · Hibernate · Spring MVC · SQL · Stored Procedures · Liquibase · Laravel · PHP · Angular · Git · GitLab CI/CD · Maven · Apache Solr · BIRT · Regulatory Reporting · Microservices (only after you can explain it) · Docker · Postman · Jira · Root Cause Analysis
+Others: Spring Data JPA · Hibernate · Spring MVC · SQL · Stored Procedures · Liquibase · Laravel · PHP · Angular · Git · GitLab CI/CD · Maven · Apache Solr · BIRT · Regulatory Reporting · Microservices · Eureka · Docker · Postman · Jira · Root Cause Analysis
 
 ---
 
