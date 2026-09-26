@@ -37,7 +37,7 @@ Backend engineer with ~2 years of experience building core-banking software for 
 - Fixed **silent data loss** when report queries returned duplicate column names by switching to positional row fetching and renaming duplicates.
 
 **Core Banking Backend — Java / Spring Boot Microservices**
-- Developed REST APIs for the **Daily Deposit Agent Master** module with **maker-checker authorization**, field-level modification audit log, duplicate detection and login-ID generation (Spring Boot, JPA, Liquibase) on a 17-service microservices platform with Eureka discovery and a central gateway service; released in product v2.2.x.
+- Developed REST APIs for the **Daily Deposit Agent Master** module with **maker-checker authorization**, field-level modification audit log, duplicate detection and login-ID generation (Spring Boot, JPA, Liquibase) on a 17-service microservices platform (Eureka discovery, gateway service routing via RestTemplate); released in product v2.2.x.
 - Resolved 180+ production defects through root-cause analysis, including loan/deposit authorization, insurance handling for unsecured loan accounts, and inward-clearing cheque validation.
 - Implemented Solr-based CASA statement retrieval for large account sets.
 
@@ -60,7 +60,7 @@ Backend engineer with ~2 years of experience building core-banking software for 
 
 ## Education & Certifications
 
-- **B.E. in Information Technology** — Matoshree College of Engineering, Nashik ([University]) · 2019–2023 · CGPA 8.2/10
+- **B.E. in Information Technology** — Matoshree College of Engineering, Nashik (Savitribai Phule Pune University) · 2019–2023 · CGPA 8.2/10
 - Java Spring Framework, Spring Boot & Spring AI — Udemy, 2026
 - Java Development — Cyber Success Institute, Pune, 2023
 

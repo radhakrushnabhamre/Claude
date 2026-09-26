@@ -3,7 +3,7 @@
 ## Headline (max 220 chars)
 
 **Primary:**
-Backend Engineer | Java · Spring Boot · SQL Server | Core Banking & Regulatory Reporting | Built a reporting engine now live in production at a bank
+Backend Engineer | Java · Spring Boot Microservices · SQL Server | Core Banking & Regulatory Reporting | Built a reporting engine now live in production at a bank
 
 **Alternative:**
 Software Developer @ Novillex | Java, Spring Boot, REST APIs, SQL Server | Core Banking · 380+ Regulatory Reports · Report Maestro Award 2026
@@ -53,7 +53,7 @@ Skills: Laravel · Microsoft SQL Server · Liquibase · System Design · Puppete
 
 ### Associate Software Developer · Dec 2024 – May 2026
 
-• Developed Spring Boot REST APIs for the Daily Deposit Agent Master module with maker-checker authorization and field-level audit logging, on a Spring Boot microservices platform with Eureka discovery; released in product v2.2.x.
+• Developed Spring Boot REST APIs for the Daily Deposit Agent Master module with maker-checker authorization and field-level audit logging, on a Spring Boot microservices platform with Eureka discovery and a central API gateway; released in product v2.2.x.
 • Resolved 180+ production defects through root-cause analysis across loans, deposits, insurance and inward clearing.
 • Built and maintained 380+ BIRT statutory and operational reports; tuned stored procedures to cut execution time by 30% on average.
 • Migrated reports from SVN to Git and automated deployment with PowerShell on GitLab CI runners for 3 client banks.
@@ -73,7 +73,7 @@ Others: Spring Data JPA · Hibernate · Spring MVC · SQL · Stored Procedures �
 
 ## Education
 
-Matoshree College of Engineering, Nashik — B.E., Information Technology · 2019–2023 · Grade: 8.2 CGPA
+Matoshree College of Engineering, Nashik (Savitribai Phule Pune University) — B.E., Information Technology · 2019–2023 · Grade: 8.2 CGPA
 Activities: NSS Secretary (grew volunteers from 35 to 100+, led a 500+ tree plantation drive); Student of the Year 2023; runner-up, district-level elocution
 
 ## Licenses & Certifications
