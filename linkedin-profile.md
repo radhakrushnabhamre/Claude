@@ -12,20 +12,15 @@ Software Developer @ Novillex | Java, Spring Boot, REST APIs, SQL Server | Core 
 
 ## About (max 2,600 chars — first 3 lines show before "see more")
 
-I do my best work on problems that are messy and that nobody owns yet.
+I learn fast, break big problems into small ones, and stay with them until they're solved.
 
-How I work:
-▸ Root cause over quick fix: I follow a problem through every layer until I find the real cause, not just the nearest symptom.
-▸ Ownership: I take work from idea to production and stay with it after launch.
-▸ Clarity: I turn tangled requirements and inconsistent data into simple, repeatable processes.
-▸ Calm under pressure: production issues get a structured approach, not panic.
+▸ Adaptability: I've shipped work in whatever the problem needed: backend services, databases, frontends and reporting tools, often in technologies I hadn't used before.
+▸ Quick learning: I picked up a framework that was new to me and, within months, used it to build a system now live in production at a bank.
+▸ Problem breakdown: I split complex, messy problems into clear steps and chase root causes rather than symptoms. That approach has resolved 180+ production issues.
+▸ Determination: when something is hard, I keep at it. I took an internal proof of concept all the way to production.
+▸ Leadership: I was trusted to lead a team of developers before I had the title, planning their work and reviewing their code; the promotion followed three months later. Earlier, as NSS Secretary, I grew a volunteer group from 35 to 100+.
 
-Where that has taken me:
-• My report development work earned the company's Report Maestro Award (Jan 2026).
-• I then took an internal proof of concept to a system now live in production at a bank.
-• I was trusted to lead a team of developers before I had the title; the promotion followed three months later.
-
-Outside work, as NSS Secretary I grew a volunteer group from 35 to 100+ by getting people behind a clear goal.
+My report development work also earned the company's Report Maestro Award (2026).
 
 The technical details are in my resume under Featured.
 
