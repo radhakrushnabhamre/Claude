@@ -7,7 +7,7 @@ Pune, Maharashtra · [phone] · [email] · [linkedin.com/in/...]
 
 ## Summary
 
-Backend engineer with ~2 years of experience building core-banking software for cooperative banks. Primary author of a metadata-driven reporting engine now **live in production at a bank**, and recipient of the company's **Report Maestro Award (2026)**. Leads a team of 3 developers, scaling to 7 based on project workload. Hands-on with Java/Spring Boot microservices, SQL Server stored procedures, Liquibase migrations, CI/CD, and regulatory/MIS reporting (NPA provisioning, deposit insurance, SFT, balance sheet).
+Backend engineer with ~2 years in core-banking software, promoted within 18 months. Primary author of a reporting engine now **live in production at a bank**; **Report Maestro Award (2026)**. Lead a team of 3–7 developers. Skilled in Java/Spring Boot microservices, SQL Server, Liquibase and CI/CD.
 
 ---
 
