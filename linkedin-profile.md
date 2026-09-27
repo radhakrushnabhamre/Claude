@@ -73,7 +73,7 @@ Others: Team Leadership · Task Delegation · Spring Data JPA · Hibernate · Sp
 
 ## Education
 
-Matoshree College of Engineering, Nashik (Savitribai Phule Pune University) — B.E., Information Technology · 2019–2023 · Grade: 8.2 CGPA
+Matoshri College of Engineering and Research Centre, Nashik (Savitribai Phule Pune University) — B.E., Information Technology · 2019–2023 · Grade: 8.2 CGPA
 Activities: NSS Secretary (grew volunteers from 35 to 100+, led a 500+ tree plantation drive); Student of the Year 2023; runner-up, district-level elocution
 
 ## Licenses & Certifications

@@ -62,7 +62,7 @@ Backend engineer with ~2 years of experience building core-banking software for 
 
 ## Education & Certifications
 
-- **B.E. in Information Technology** — Matoshree College of Engineering, Nashik (Savitribai Phule Pune University) · 2019–2023 · CGPA 8.2/10
+- **B.E. in Information Technology** — Matoshri College of Engineering and Research Centre, Nashik (Savitribai Phule Pune University) · 2019–2023 · CGPA 8.2/10
 - Java Spring Framework, Spring Boot & Spring AI — Udemy, 2026
 - Java Development — Cyber Success Institute, Pune, 2023
 
