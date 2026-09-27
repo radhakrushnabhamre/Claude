@@ -21,7 +21,8 @@ How I work:
 ▸ Calm under pressure: production issues get a structured approach, not panic.
 
 Where that has taken me:
-• I took an internal proof of concept to a system now live in production at a bank, which earned the company's Report Maestro Award (2026).
+• My report development work earned the company's Report Maestro Award (Jan 2026).
+• I then took an internal proof of concept to a system now live in production at a bank.
 • I was trusted to lead a team of developers before I had the title; the promotion followed three months later.
 
 Outside work, as NSS Secretary I grew a volunteer group from 35 to 100+ by getting people behind a clear goal.
