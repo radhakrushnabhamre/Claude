@@ -12,18 +12,21 @@ Software Developer @ Novillex | Java, Spring Boot, REST APIs, SQL Server | Core 
 
 ## About (max 2,600 chars — first 3 lines show before "see more")
 
-I build backend systems for banking — where a wrong number in a report is a regulatory problem, not just a bug.
+I do my best work on problems that are messy and that nobody owns yet.
 
-At Novillex Technologies, I work on FinWiz, a core-banking platform for cooperative banks. I'm the primary author of FinDrishti, a metadata-driven reporting engine now live in production at a bank:
-▸ 170 reports migrated off legacy BIRT
-▸ PDF export memory cut from ~2 GB to ~250 MB
-▸ New reports configured without code changes
+How I work:
+▸ Root cause over quick fix: I follow a problem through every layer until I find the real cause, not just the nearest symptom.
+▸ Ownership: I take work from idea to production and stay with it after launch.
+▸ Clarity: I turn tangled requirements and inconsistent data into simple, repeatable processes.
+▸ Calm under pressure: production issues get a structured approach, not panic.
 
-I also build Spring Boot microservices and REST APIs, including a maker-checker approval module, and have resolved 180+ production defects.
+Where that has taken me:
+• I took an internal proof of concept to a system now live in production at a bank, which earned the company's Report Maestro Award (2026).
+• I was trusted to lead a team of developers before I had the title; the promotion followed three months later.
 
-Since March 2026 I've led a team of 3–7 developers, planning work and reviewing code. Report Maestro Award 2026; promoted to Software Developer in June 2026.
+Outside work, as NSS Secretary I grew a volunteer group from 35 to 100+ by getting people behind a clear goal.
 
-Tech: Java · Spring Boot · Microservices · SQL Server · Liquibase · REST APIs · Laravel · GitLab CI
+The technical details are in my resume under Featured.
 
 Always glad to connect with people building in banking and fintech.
 
