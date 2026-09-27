@@ -12,15 +12,18 @@ Software Developer @ Novillex | Java, Spring Boot, REST APIs, SQL Server | Core 
 
 ## About (max 2,600 chars — first 3 lines show before "see more")
 
-I learn fast, break big problems into small ones, and stay with them until they're solved.
+I build backend systems for banking — where a wrong number in a report is a regulatory problem, not just a bug.
 
-▸ Adaptability: I've shipped work in whatever the problem needed: backend services, databases, frontends and reporting tools, often in technologies I hadn't used before.
-▸ Quick learning: I picked up a framework that was new to me and, within months, used it to build a system now live in production at a bank.
-▸ Problem breakdown: I split complex, messy problems into clear steps and chase root causes rather than symptoms. That approach has resolved 180+ production issues.
-▸ Determination: when something is hard, I keep at it. I took an internal proof of concept all the way to production.
+At Novillex Technologies, I work on FinWiz, a core-banking platform for cooperative banks. I'm the primary author of FinDrishti, a reporting engine now live in production at a bank, which replaced 170 legacy reports and cut PDF export memory from ~2 GB to ~250 MB.
+
+How I work:
+▸ Problem breakdown: I split messy problems into clear steps and chase root causes, not symptoms. That approach has resolved 180+ production issues.
+▸ Ownership and determination: I take work from idea to production and stay with it. FinDrishti started as an internal proof of concept.
+▸ Calm under pressure: production issues get a structured approach, not panic.
 ▸ Leadership: I was trusted to lead a team of developers before I had the title, planning their work and reviewing their code; the promotion followed three months later. Earlier, as NSS Secretary, I grew a volunteer group from 35 to 100+.
 
-My report development work also earned the company's Report Maestro Award (2026).
+How I learn:
+I adapt to whatever the problem needs: backend services, databases, frontends or reporting tools. I picked up a framework that was new to me and, within months, used it to ship a production system. My report development work also earned the company's Report Maestro Award (2026).
 
 The technical details are in my resume under Featured.
 
