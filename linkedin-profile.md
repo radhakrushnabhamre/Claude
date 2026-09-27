@@ -14,22 +14,16 @@ Software Developer @ Novillex | Java, Spring Boot, REST APIs, SQL Server | Core 
 
 I build backend systems for banking — where a wrong number in a report is a regulatory problem, not just a bug.
 
-For the past two years at Novillex Technologies, I've worked on FinWiz, a core-banking platform for cooperative banks. My biggest piece of work is FinDrishti, a metadata-driven reporting engine I designed and built as primary author, taking it from proof of concept to production at a bank.
+At Novillex Technologies, I work on FinWiz, a core-banking platform for cooperative banks. I'm the primary author of FinDrishti, a metadata-driven reporting engine now live in production at a bank:
+▸ 170 reports migrated off legacy BIRT
+▸ PDF export memory cut from ~2 GB to ~250 MB
+▸ New reports configured without code changes
 
-What that involved:
-▸ Replacing hand-built BIRT reports with reports defined as database configuration — 170 reports migrated so far
-▸ A PDF/Excel export pipeline on a persistent headless Chromium that cut memory usage from ~2 GB to ~250 MB
-▸ A read-through metadata cache and admin UI so reports can be configured without code changes
-▸ Integrating core-banking charge APIs so printed reports are billed and posted automatically
+I also build Spring Boot microservices and REST APIs, including a maker-checker approval module, and have resolved 180+ production defects.
 
-On the Java side, I build Spring Boot microservices and REST APIs — including a maker-checker approval module with field-level audit logging — and I've resolved 180+ production defects through root-cause analysis.
+Since March 2026 I've led a team of 3–7 developers, planning work and reviewing code. Report Maestro Award 2026; promoted to Software Developer in June 2026.
 
-I've also built and tuned 380+ statutory and operational reports (NPA provisioning, deposit insurance, SFT, balance sheets), cutting execution time by 30% on average, and automated report deployment to 3 client banks through GitLab CI.
-
-Recognised with the Report Maestro Award (2026) and promoted to Software Developer in June 2026. Since March 2026 I've led a team of 3 developers, scaling up to 7 based on project workload — planning and assigning work, reviewing code and tracking delivery so releases ship on time.
-
-Tech: Java · Spring Boot · Microservices · Eureka · Spring Data JPA · REST APIs · PHP/Laravel · SQL Server · Liquibase · GitLab CI · Angular · BIRT
-Domain: Core banking · Regulatory reporting · Maker-checker workflows · Audit trails
+Tech: Java · Spring Boot · Microservices · SQL Server · Liquibase · REST APIs · Laravel · GitLab CI
 
 Always glad to connect with people building in banking and fintech.
 
