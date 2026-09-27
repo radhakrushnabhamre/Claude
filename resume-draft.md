@@ -49,6 +49,12 @@ Backend engineer with ~2 years of experience building core-banking software for 
 - Packaged first-release Liquibase changelogs: schema delta, 25 report seeds, `runOnChange` stored-procedure changelog, parameterized bank codes.
 - Reconciled report metadata across 4 repositories: resolved 18 of 19 ambiguous menu groups, synced 98 drifted report titles, removed orphaned and duplicate entries.
 
+### Software Development Intern — Zeftrosoft Technologies, Pune
+*Sep 2024 – Dec 2024*
+
+- Built a real-time IoT dashboard to monitor sensor data, with asynchronous REST and GraphQL APIs in Node.js integrated with an Angular frontend.
+- Worked with MongoDB for processing sensor data.
+
 ---
 
 ## Projects
@@ -71,4 +77,5 @@ Backend engineer with ~2 years of experience building core-banking software for 
 ## Achievements
 
 - **Report Maestro Award** — Novillex Technologies Foundation Day, Jan 2026, for excellence in financial report development.
+- **Published a research paper** on an RFID-based automated attendance management system (final-year project: Java, SQL, web technologies).
 - Student of the Year 2023; NSS Secretary (grew volunteer base from 35 to 100+, led a 500+ tree plantation drive); runner-up, district-level elocution competition.

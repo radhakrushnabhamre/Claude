@@ -61,13 +61,24 @@ Skills: Team Leadership · Laravel · Microsoft SQL Server · Liquibase · Syste
 
 Skills: Java · Spring Boot · Microservices · Spring Data JPA · REST APIs · BIRT · GitLab CI/CD
 
+## Experience — Zeftrosoft Technologies (Pune)
+
+### Software Development Intern · Sep 2024 – Dec 2024
+
+• Developed a real-time dashboard to visualize and monitor IoT sensor data.
+• Built asynchronous REST and GraphQL APIs using Node.js.
+• Integrated the APIs with an Angular frontend.
+• Worked with MongoDB for sensor-data processing.
+
+Skills: Node.js · Angular · MongoDB · GraphQL · REST APIs
+
 ---
 
 ## Skills (add all; set the first 5 as Top Skills)
 
 Top 5: Java · Spring Boot · Microsoft SQL Server · REST APIs · Core Banking
 
-Others: Team Leadership · Task Delegation · Spring Data JPA · Hibernate · Spring MVC · SQL · Stored Procedures · Liquibase · Laravel · PHP · Angular · Git · GitLab CI/CD · Maven · Apache Solr · BIRT · Regulatory Reporting · Microservices · Eureka · Docker · Postman · Jira · Root Cause Analysis
+Others: Node.js · GraphQL · MongoDB · Team Leadership · Task Delegation · Spring Data JPA · Hibernate · Spring MVC · SQL · Stored Procedures · Liquibase · Laravel · PHP · Angular · Git · GitLab CI/CD · Maven · Apache Solr · BIRT · Regulatory Reporting · Microservices · Eureka · Docker · Postman · Jira · Root Cause Analysis
 
 ---
 
@@ -84,6 +95,19 @@ Activities: NSS Secretary (grew volunteers from 35 to 100+, led a 500+ tree plan
 ## Honors & Awards
 
 - Report Maestro Award — Novillex Technologies · Jan 2026 — For excellence in financial report development.
+
+## Projects
+
+**Automated Attendance Management System** · Sep 2022 – Apr 2023 · Associated with Matoshri College of Engineering and Research Centre
+• Developed a web-based attendance management system using RFID for automated attendance capture.
+• Implemented attendance tracking and data management, replacing manual attendance processes.
+• Contributed to requirements gathering, business logic and backend services.
+Skills: Java · SQL · RFID
+
+## Publications
+
+**[Paper title]** — [Journal / conference name] · [Month Year]
+Research paper based on the Automated Attendance Management System project. Add the paper link in the URL field.
 
 ---
 
